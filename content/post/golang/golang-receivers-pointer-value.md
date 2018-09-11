@@ -1,5 +1,5 @@
 ---
-title: "Go: method receivers pointer 還是 value"
+title: "Go: method receivers - pointer 還是 value"
 date: 2018-09-09T15:10:43+08:00
 draft: true
 ---
@@ -32,7 +32,7 @@ draft: true
 
 在決定要使用 pointer receiver 還是 value receiver 時，應該要考慮到以下幾點
 
-### 需要修改這個 struct 嗎？
+### 需要修改這個 receiver 嗎？
 
 如果 method 是需要修改 receiver 的值，那你應該要使用 pointer，因為在 Go 裡所有的 function 都是會 copy 一份傳入的參數，看下面的例子
 
