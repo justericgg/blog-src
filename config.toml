@@ -4,6 +4,7 @@ title = "Eric.G's BLOG"
 theme = "hugo-dusk"
 paginate = 5
 canonifyurls = true
+summaryLength = 30
 
 googleAnalytics = ""
 

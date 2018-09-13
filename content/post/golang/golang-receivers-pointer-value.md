@@ -74,7 +74,7 @@ draft: true
 
 因為是 pointer 所以你得注意 concurrency 的情況，所以若沒有以上考量與程式一致性的考量，用 value 相對來說副作用是比較小的
 
-參考資料:
+#### 參考資料:
 
 https://golang.org/doc/faq#methods_on_values_or_pointers
 https://golang.org/doc/faq#different_method_sets
