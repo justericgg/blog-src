@@ -1,5 +1,5 @@
 ---
-title: "Recursion 遞迴"
+title: "Recursion 遞迴 (Golang)"
 date: 2018-09-13T09:50:15+08:00
 draft: false
 ---
