@@ -1,7 +1,7 @@
 ---
 title: "Go: method receivers - pointer 還是 value"
 date: 2018-09-09T15:10:43+08:00
-draft: true
+draft: false
 ---
 
 初學 Go 的一些小疑問，查了許多資料，在這邊整理一下，分享給有需要的人
