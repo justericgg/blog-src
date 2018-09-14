@@ -1,0 +1,33 @@
+baseURL = "/"
+languageCode = "zh-tw"
+title = "Eric.G's BLOG"
+theme = "even"
+paginate = 5
+canonifyurls = true
+summaryLength = 30
+
+googleAnalytics = ""
+
+SectionPagesMenu = "main"
+
+[[menu.main]]
+  name = "Algorithm 演算法"
+  identifier = "algorithm"
+  url = "/post/algorithm/"
+
+[[menu.main]]
+  name = "Golang"
+  identifier = "golang"
+  url = "/post/golang"
+
+[params.meta]
+  keywords = "blog, tech, golang, go"
+  description = "Personal blog."
+
+[params.colors]
+  # hugo-dusk colors
+  background = "#101010" # background color for the site
+  main = "#99cc66"
+  text = "#dbdbdb"
+  code-quote-bg = "#1D1F21" # background color for quotes and code blocks
+  copyright = "#404040" # copyright text color
