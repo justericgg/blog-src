@@ -4,7 +4,7 @@ date: 2018-09-16T13:59:30+08:00
 draft: false
 ---
 
-在上一篇 - Linear Search (線性搜尋法)，文末提到還有更好的搜尋方法，我們今天就來講講
+在上一篇 - [Linear Search (線性搜尋法)](http://justericgg.com/post/algorithm/linear-search/)，文末提到還有更好的搜尋方法，我們今天就來講講
 Binary Search (二元搜尋法)
 
 ## 必要條件
