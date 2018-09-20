@@ -198,7 +198,7 @@ HTML 為了簡單，這邊只從 body tag 開始給範例
 
 這裡有個延申閱讀的部分，以上的做法基本上是用深度優先的方式走訪，還有其他的方式就先留給給大家自行上網找答案了
 
-#### 參考資料:
+#### 參考資料
 
 https://en.wikipedia.org/wiki/Recursion_(computer_science)
 

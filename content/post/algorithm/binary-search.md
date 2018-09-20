@@ -39,7 +39,7 @@ Binary Search 就是用這樣的概念去實作，有一個差別是在 A 回答
 
 我們來看一下圖例，比較清楚
 
-![binary search image](/images/binary-sort.svg)
+![binary search image](/images/binary-search.svg)
 
 ## 來點程式實作
 
