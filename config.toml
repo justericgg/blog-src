@@ -1,6 +1,6 @@
-baseURL = "/"
+baseURL = "http://justericgg.com"
 languageCode = "zh-tw"
-defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
+defaultContentLanguage = "zh-tw"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "EricG's BLOG"
 enableRobotsTXT = true
 enableEmoji = true
