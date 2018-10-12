@@ -1,10 +1,10 @@
 ---
-title: "Restful API 設計建議"
+title: "RESTful API 設計建議"
 date: 2018-10-08T09:20:08+08:00
 draft: fasle
 ---
 
-今天想分享一些基於 Http 的 Restful API 設計上的一些實用建議，讓我們的 Restful 能夠有著一致性的設計概念，client 在使用上也能夠有更好的理解
+今天想分享一些基於 Http 的 RESTful API 設計上的一些實用建議，讓我們的 Restful 能夠有著一致性的設計概念，client 在使用上也能夠有更好的理解
 
 ## HTTP request & response
 
